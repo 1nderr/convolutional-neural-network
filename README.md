@@ -39,14 +39,14 @@ The kernel images will be saved in the same directory.
 
 ### Synthetic Data
 
-![](https://github.com/is386/CNN/blob/master/line1.png?raw=true)
-![](https://github.com/is386/CNN/blob/master/line2.png?raw=true)
+![](https://github.com/1nderr/convolutional-neural-network/blob/master/line1.png?raw=true)
+![](https://github.com/1nderr/convolutional-neural-network/blob/master/line2.png?raw=true)
 
 ### Initial and Final Kernels
 
-![](https://github.com/is386/CNN/blob/master/initial.png?raw=true)
-![](https://github.com/is386/CNN/blob/master/final.png?raw=true)
+![](https://github.com/1nderr/convolutional-neural-network/blob/master/initial.png?raw=true)
+![](https://github.com/1nderr/convolutional-neural-network/blob/master/final.png?raw=true)
 
 ### Cross Entropy:
 
-![](https://github.com/is386/CNN/blob/master/cross_entropy.png?raw=true)
+![](https://github.com/1nderr/convolutional-neural-network/blob/master/cross_entropy.png?raw=true)
