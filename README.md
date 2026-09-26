@@ -4,7 +4,7 @@ This is an convolutional neural network built from scratch. It uses a softmax ac
 
 ## Usage
 
-`python3 cnn.py`
+`uv run cnn.py`
 
 The kernel images will be saved in the same directory.
 
@@ -16,6 +16,8 @@ The kernel images will be saved in the same directory.
 
 - `numpy`
 - `matplotlib`
+
+The dependencies are managed with [uv](https://docs.astral.sh/uv/), which installs them on the first `uv run`.
 
 ## Hyper Parameters
 

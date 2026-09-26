@@ -1,0 +1,13 @@
+[project]
+name = "convolutional-neural-network"
+version = "0.1.0"
+description = "A convolutional neural network built from scratch"
+readme = "README.md"
+authors = [
+    { name = "1nder", email = "20195347+1nderr@users.noreply.github.com" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "matplotlib",
+    "numpy",
+]
